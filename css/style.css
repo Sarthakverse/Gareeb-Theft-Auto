@@ -1,0 +1,86 @@
+
+
+@font-face {
+    font-family: 'Londrina'; 
+    src: url('../assets/fonts/PermanentMarker-Regular.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Londrina';
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#name{
+    height: 25%;
+    width: 25%;
+    margin-top: 10%;
+}
+
+#person{
+    margin-top: 10%;
+    width: 35% ;
+    margin-right: 9%;
+}
+
+#button-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    gap: 2% ;
+}
+
+button {
+    height: 25%;
+    width: 80%;
+    border-radius: 29%;
+    border-color: burlywood;
+    background-color: transparent;
+    color: burlywood;
+    /* margin-left: 1%; */
+    font-family: 'Londrina';
+    font-size: 280%;
+}
+
+button:hover{
+    background-color: burlywood;
+    color: black;
+    transition: 0.5s;
+}
+.modal {
+    display: none;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    overflow: hidden;
+    transition: height 0.5s; 
+}
+
+.modal-content {
+    margin-top: 16%;
+    width: fit-content;
+    margin-left: 40%;
+    background-color: rgba(255, 255, 255, 0.58);
+    /* background-color: rgba(222, 184, 135, 0.497); */
+    padding: 2%;
+    border-radius: 5%;
+    text-align: center;
+}
+
+
+ul {
+    color: white;
+    list-style-type: none;
+    padding: 0;
+}
+.close {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    cursor: pointer;
+    height: 2%;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grand Theft Auto</title>
+    <link rel="stylesheet" href="css/game.css">
+</head>
+<body>
+    <p id ="score">Points: 0/7</p>
+   
+    
+        <canvas id="canvas"  ></canvas>
+        
+        <button id="toggleDarkMode">Toggle Dark Mode</button>
+   
+   
+    <script src="./js/collisions.js"></script>
+   
+    <script type="module" src="./js/canvas.js"></script>
+
+    <audio id="walking-sound">
+        <source src="../assets/audio/walkingsound.mp3" type="audio/mp3">
+    </audio>
+
+    <audio id="collision-sound">
+        <source src="../assets/audio/collisondetected.mp3" type="audio/mp3">
+    </audio>
+
+    <audio id="mario-coin-sound">
+        <source src="assets/audio/mario_coin.mp3" type="audio/mp3">
+    </audio>
+</body>
+</html> 

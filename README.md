@@ -21,6 +21,12 @@
 ### Customize your experience with music controls ('M', 'C') and movement speed ('V').
 ### Watch out for the charming hot air balloon!
 ### Embark on this whimsical journey and enjoy the transformative fun! 🎮🚀
+## ![image](https://github.com/Sarthakverse/GTA/assets/117356021/3c1cae29-8f50-48f7-bf57-c6324645741a)
+## ![image](https://github.com/Sarthakverse/GTA/assets/117356021/a2739d61-cf36-42c9-874b-d4eb3b8ae0db)
+## ![image](https://github.com/Sarthakverse/GTA/assets/117356021/9a9b3258-61ca-4d23-97c7-987f3ff20bd4)
+
+
+
 
 #### Happy gaming! 🌈💻
 

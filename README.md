@@ -1,4 +1,4 @@
-# 🎮 Grand Theft Auto 🚗🤖🎈 https://gta-hazel.vercel.app/
+# 🎮 Gareeb Theft Auto 🚗🤖🎈 https://gta-hazel.vercel.app/
 
 ### Get ready for an exciting gaming experience! 🌟 Press 'G' to embark on your journey. In this top-down GTA-inspired animation, your character can transform into a car using 'R'. Navigate through the landscape with WASD, tweak your speed with 'V', toggle music with 'M', change tracks
 ### with 'C', and keep an eye out for a whimsical hot air balloon drifting randomly on the map. 🕹️🎈
